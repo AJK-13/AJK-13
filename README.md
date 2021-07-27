@@ -1,18 +1,13 @@
-<div class="card" align="center" style={{ backgroundColor: "whitesmoke", fontFamily: "Raleway" }}>
-        <h1 class="animate__animated animate__lightSpeedInRight" style={{ color: "#1851ad", }}><b> Hi, I'm AJK-13. </b></h1>
-        <h2 class="animate__animated animate__lightSpeedInRight" style={{ color: "black", }}><b> Here Is A Bit About Me: </b></h2>
-      </div>
-      
-## <details><summary>Fullstack freelancer using</summary> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table><tr><th>![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Javascript&logoColor=white)</tr><tr><th> ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Pug](https://img.shields.io/badge/pug-964B00?style=for-the-badge&logo=pug&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</tr></table></details>
+# AJK-13
 
-## <details><summary>On the side</summary><br><table><tr><th>![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-430098?style=for-the-badge&logo=haskell&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</th></tr></table></details>
+## <details><summary>As a FullStack Freelancer I Use:</summary> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<table><tr><th>![Mongodb](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Javascript&logoColor=white)</tr><tr><th> ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-964B00?style=for-the-badge&logo=EJS&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css3&logoColor=white)</tr></table></details>
+
+## <details><summary>On The Side:</summary><br><table><tr><th>![GoLang](https://img.shields.io/badge/Go-404D59?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next-38B2AC?style=for-the-badge&logo=Next.js&logoColor=white)</th></tr></table></details>
 
 
-## <details><summary>❤️ shell scripting in</summary><br><table><tr><th>![Powershell](https://img.shields.io/badge/powershell-0081CB?style=for-the-badge&logo=powershell&logoColor=white) ![Fish](https://img.shields.io/badge/Fish-ED8B00?style=for-the-badge&logo=gnu-bash&logoColor=white)</th></tr></table>
+## <details><summary>Shell Scripts:</summary><br><table><tr><th> ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED8B00?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Powershell](https://img.shields.io/badge/powershell-0081CB?style=for-the-badge&logo=powershell&logoColor=white)</th></tr></table>
 </details>
 
-## <details><summary>Run code with</summary><br><table><tr><th>![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows%20Insider-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3498DB?style=for-the-badge&logo=docker&logoColor=white)</th></tr></table></details>
+## <details><summary>I Program Using:</summary><br><table><tr><th>![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white)</th></tr></table></details>
 
-## <details><summary>Develop using</summary><br><table><tr><th>![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-006400?style=for-the-badge&logo=neovim&logoColor=white)</th></tr></table></details>
-
-## <details><summary>Stats</summary><br><p>![commits](https://activity-graph.herokuapp.com/graph?username=Kudostoy0u "not the best")<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudostoy0u&layout=compact&langs_count=9)</p></details>
+## <details><summary>Statistics:</summary><br><p>![commits](https://activity-graph.herokuapp.com/graph?username=AJK-13)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajk-13&layout=compact&langs_count=5)</p></details>
