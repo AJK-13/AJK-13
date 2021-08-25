@@ -10,4 +10,4 @@
 
 ## <details><summary>I Program Using:</summary><br><table><tr><th>![VScode](https://img.shields.io/badge/VScode-0089D6?style=for-the-badge&logo=visual-studio-code&logoColor=white)</th></tr></table></details>
 
-## <details><summary>Statistics:</summary><br><p>![commits](https://activity-graph.herokuapp.com/graph?username=AJK-13)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajk-13&layout=compact&langs_count=9)</p></details>
+## <details><summary>Statistics:</summary><br><p>![commits](https://activity-graph.herokuapp.com/graph?username=AJK-13)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajk-13&layout=compact&langs_count=5)</p></details>
